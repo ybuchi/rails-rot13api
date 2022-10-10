@@ -1,0 +1,2 @@
+class OriginalString < ApplicationRecord
+end
